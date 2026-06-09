@@ -55,14 +55,14 @@ That's it. No configuration files. No code. It just works.
 
 | Resource | Operations |
 |----------|------------|
-| Eco Ta Co API Root | GET Retrieve the version API, GET Retrieve the Entry Point on Version |
-| Accounts | GET Get current user, POST Create a new account with an application key, PUT Update User, POST Forget password with email, GET Payment Methods, POST Settings, POST Login with email, password and application key, PUT Update Password |
-| Credit Cards | GET List all CreditCards for the current User, GET Get a CreditCard |
-| Rides | GET Get a ride, GET Cancel a Ride, GET Cancel fee of a Ride, GET Estimate a ride, POST Reserve a ride, GET Get all user rides, POST Create a ride |
-| Promotional Codes | GET Get all promotional codes for user, POST Add a promotional code |
-| Adresses | POST Get autocomplete places, POST Get autocomplete places details |
-| Catchement Areas | GET List all catchement areas, GET Get a Catchement Area |
-| Products | GET List all products, GET Get a Product |
+| Eco Ta Co API Root | Get retrieve the version api, Get retrieve the entry point on version |
+| Accounts | Get current user, Post create a new account with an application key, Put update user, Post forget password with email, Get payment methods, Post settings, Post login with email password and application key, Put update password |
+| Credit Cards | Get list all creditcards for the current user, Get a creditcard |
+| Rides | Get a ride, Get cancel a ride, Get cancel fee of a ride, Get estimate a ride, Post reserve a ride, Get all user rides, Post create a ride |
+| Promotional Codes | Get all promotional codes for user, Post add a promotional code |
+| Adresses | Post get autocomplete places, Post get autocomplete places details |
+| Catchement Areas | Get list all catchement areas, Get a catchement area |
+| Products | Get list all products, Get a product |
 
 ---
 
